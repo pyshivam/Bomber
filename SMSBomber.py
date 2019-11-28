@@ -4,7 +4,7 @@ import time
 
 print("SMS Bomber made by pyshivam.")
 print("This script only work in Linux Environment.\n\n")
-no = input("Enter number ( without +91 ): ")
+no = str(input("Enter number ( without +91 ): "))
 n = 0
 
 
